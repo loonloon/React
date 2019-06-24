@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Record 1",
+      "description": "This is Record 1",
+      "userId": "112442101854964990289",
+      "id": 1
+    },
+    {
+      "title": "Record 2",
+      "description": "This is Record 2",
+      "userId": "112442101854964990289",
+      "id": 2
+    },
+    {
+      "title": "I want be healthy",
+      "description": "Thanks Guan Shi Yin Pu Sha",
+      "userId": "112442101854964990289",
+      "id": 3
+    }
+  ]
+}
